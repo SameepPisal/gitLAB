@@ -1,0 +1,5 @@
+- Bijgewerkt naar Tor.framework 406.10.1 met Tor 0.4.6.10 en OpenSSL 1.1.1m.
+- Bijgewerkte Oekraïense, Russische en traditionele Chinese vertalingen.
+- Bijgewerkt NYT-ui-adres.
+- DW- en Twitter-ui-adres toegevoegd aan standaardbladwijzers.
+- Bijgewerkte HSTS-lijst voor automatische herschrijvingen naar HTTPS.

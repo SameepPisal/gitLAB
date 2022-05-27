@@ -1,0 +1,5 @@
+- Actualizado a Tor.framework 406.10.1 conteniendo Tor 0.4.6.10 y OpenSSL 1.1.1m.
+- Traducciones actualizadas en ucraniano, ruso y chino tradicional.
+- Dirección onion para NYT actualizada.
+- Se agregaron direcciones onion para DW y Twitter a los marcadores por defecto.
+- Lista HSTS actualizada para reescrituras automáticas a HTTPS.

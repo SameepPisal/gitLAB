@@ -1,0 +1,5 @@
+- Oppdatert til Tor.framework 406.10.1 som inneholder Tor 0.4.6.10 og OpenSSL 1.1.1m.
+- Oppdaterte ukrainske, russiske og tradisjonelle kinesiske oversettelser.
+- Oppdatert NYT-løkadresse.
+- Lagt til DW- og Twitter-løkadresse til standardbokmerker.
+- Oppdatert HSTS-liste for automatiske omskrivninger til HTTPS.

@@ -1,0 +1,5 @@
+- Aktualizováno na Tor.framework 406.10.1 obsahující Tor 0.4.6.10 a OpenSSL 1.1.1m.
+- Aktualizované ukrajinské, ruské a tradiční čínské překlady.
+- Aktualizovaná adresa cibule NYT.
+- Přidána adresa DW a Twitter cibule do výchozích záložek.
+- Aktualizovaný seznam HSTS pro automatické přepisy na HTTPS.

@@ -1,0 +1,5 @@
+- Aktualisiert auf Tor.framework 407.7.1 mit Tor 0.4.7.7 und OpenSSL 1.1.1o.
+- Spanische und ukrainische Übersetzung aktualisiert.
+- Rumänische Übersetzung hinzugefügt.
+- Verhalten bei Onion-Location-Umleitungen behoben.
+- Tab-Übersicht verbessert. Verwendet Schnappschüsse statt kleiner Webviews. Vielen Dank an Alexey Kosylo!
